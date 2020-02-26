@@ -1,3 +1,15 @@
 node_modules
 app/aem/dist
 yarn.lock
+app/aem/src/client/index.js
+app/aem/src/client/preview/globals.js
+app/aem/src/client/preview/helpers/ComponentLoader.js
+app/aem/src/client/preview/helpers/ResourceResolver.js
+app/aem/src/client/preview/index.js
+app/aem/src/client/preview/render.js
+app/aem/src/client/preview/types.js
+app/aem/src/server/build.js
+app/aem/src/server/framework-preset-aem.js
+app/aem/src/server/index.js
+app/aem/src/server/options.js
+htl-loader/package-lock.json
